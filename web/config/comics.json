@@ -1,0 +1,173 @@
+{
+  "comics": [
+    {
+      "name": "Questionable Content",
+      "slug": "qc",
+      "update_schedule": "MWTRF",
+      "url": "http://questionablecontent.net/",
+      "erratic": false,
+      "nsfw": false
+    },
+    {
+      "name": "xkcd",
+      "slug": "xkcd",
+      "update_schedule": "MWTRF",
+      "url": "http://xkcd.com/",
+      "erratic": false,
+      "nsfw": false
+    },
+    {
+      "name": "xkcd What If?",
+      "slug": "what-if",
+      "update_schedule": "T",
+      "url": "http://what-if.xkcd.com/",
+      "erratic": true,
+      "nsfw": false
+    },
+    {
+      "name": "Alice Grove",
+      "slug": "alice-grove",
+      "update_schedule": "TF",
+      "url": "http://www.alicegrove.com/",
+      "erratic": false,
+      "nsfw": false
+    },
+    {
+      "name": "Misfile",
+      "slug": "misfile",
+      "update_schedule": "MWTRF",
+      "url": "http://www.misfile.com/",
+      "erratic": false,
+      "nsfw": false
+    },
+    {
+      "name": "Schlock Mercenary",
+      "slug": "schlock",
+      "update_schedule": "MWTRFSaSu",
+      "url": "http://www.schlockmercenary.com/",
+      "erratic": false,
+      "nsfw": false
+    },
+    {
+      "name": "Something Positive",
+      "slug": "sp",
+      "update_schedule": "MWTRF",
+      "url": "http://somethingpositive.net/",
+      "erratic": false,
+      "nsfw": false
+    },
+    {
+      "name": "Something Positive",
+      "slug": "sp",
+      "update_schedule": "MWTRF",
+      "url": "http://somethingpositive.net/",
+      "erratic": false,
+      "nsfw": false
+    },
+    {
+      "name": "Girl Genius",
+      "slug": "girl-genius",
+      "update_schedule": "MWF",
+      "url": "http://www.girlgeniusonline.com/comic.php",
+      "erratic": false,
+      "nsfw": false
+    },
+    {
+      "name": "Between Failures",
+      "slug": "between-failures",
+      "update_schedule": "MWF",
+      "url": "http://betweenfailures.com/",
+      "erratic": false,
+      "nsfw": false
+    },
+    {
+      "name": "Three Panel Soul",
+      "slug": "3ps",
+      "update_schedule": "MWF",
+      "url": "http://threepanelsoul.com/",
+      "erratic": false,
+      "nsfw": false
+    },
+    {
+      "name": "Dilbert",
+      "slug": "dilbert",
+      "update_schedule": "MTWRFSaSu",
+      "url": "http://www.dilbert.com/fast",
+      "erratic": false,
+      "nsfw": false
+    },
+    {
+      "name": "Sheldon",
+      "slug": "sheldon",
+      "update_schedule": "M",
+      "url": "http://www.sheldoncomics.com/",
+      "erratic": true,
+      "nsfw": false
+    },
+    {
+      "name": "Wasted Talent",
+      "slug": "wasted-talent",
+      "update_schedule": "M",
+      "url": "http://www.wastedtalent.ca/",
+      "erratic": false,
+      "nsfw": false
+    },
+    {
+      "name": "Sandra and Woo",
+      "slug": "sandra-and-woo",
+      "update_schedule": "MR",
+      "url": "http://www.sandraandwoo.com/",
+      "erratic": false,
+      "nsfw": false
+    },
+    {
+      "name": "Gaia",
+      "slug": "gaia",
+      "update_schedule": "MR",
+      "url": "http://www.sandraandwoo.com/gaia",
+      "erratic": false,
+      "nsfw": false
+    },
+    {
+      "name": "El Goonish Shive",
+      "slug": "egs",
+      "update_schedule": "MWF",
+      "url": "http://www.egscomics.com/",
+      "erratic": false,
+      "nsfw": false
+    },
+    {
+      "name": "Sinfest",
+      "slug": "sinfest",
+      "update_schedule": "MTWRF",
+      "url": "http://www.sinfest.net/index.php",
+      "erratic": false,
+      "nsfw": false
+    },
+    {
+      "name": "Penny Arcade",
+      "slug": "pa",
+      "update_schedule": "MWF",
+      "url": "http://www.penny-arcade.com/comic",
+      "erratic": false,
+      "nsfw": false
+    },
+    {
+      "name": "PvP",
+      "slug": "pvp",
+      "update_schedule": "MWF",
+      "url": "http://www.pvponline.com/comic",
+      "erratic": false,
+      "nsfw": false
+    },
+    {
+      "name": "Sam and Fuzzy",
+      "slug": "sam-and-fuzzy",
+      "update_schedule": "MWF",
+      "url": "http://samandfuzzy.com/",
+      "erratic": false,
+      "nsfw": false
+    }
+    
+  ]
+}
